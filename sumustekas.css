@@ -1,0 +1,108 @@
+*{
+    margin: 0
+    padding: 0;  
+}
+h2{
+    padding-left: 17%;
+    padding-top: 5%;
+}
+.sumustekas{
+    padding-left: 5%;
+}
+
+.bandele-top {
+    margin-left: 35px;
+    background-color: #E6BA51;
+    height: 80px;
+    width: 300px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: inset -2px -22px 2px -7px #D09F3F;
+    border-bottom: 50px;
+}
+.suris{
+    margin-left: 25px;
+    background-color: #FEDF13;
+    height: 15px;
+    width: 320px;
+    align-self: center;
+    box-shadow:inset 0px -1px 1px 1px #A9A9A9;
+}
+.kecupas{
+    margin-left: 60px;
+    background-color: #DF3F2D;
+    height: 25px;
+    width: 250px;
+}
+.svogunas{
+    margin-left: 85px;
+    background-color: darkviolet;
+    width: 200px; 
+    border-top-style: dotted;
+    border-top-color: violet;
+    border-top-width: 25px;    
+/*    shape-inside: circle(20%) green;*/
+}
+/*
+.rutuliukai {
+    margin-left: 4px;
+    margin-right: 11px;
+    background-color: #AD81C7;
+    float: left;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+*/
+.mesa{
+    margin-left: 10px;
+    margin-right: none;
+    display: inline-flex;
+    background-color: saddlebrown;
+    height: 50px;
+    width: 50px;
+    border-radius: 500px;
+}
+body div:nth-child(8){
+    margin-left: 95px;
+}
+.agurkelis{
+    margin-left: 55px;
+    background-color: #4DD18F;
+    height: 40px;
+    width: 260px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: inset -2px -18px 2px -7px #429A7A;
+}
+.mesos-paplotelis{
+    margin-left: 25px;
+    background-color: #BA431F;
+    height: 30px;
+    width: 320px;
+    border-radius: 100px;
+    box-shadow: inset -2px 1px 3px 1px #754419;
+}
+.bandele-bottom{
+    margin-left: 35px;
+    background-color: #E6BA51;
+    height: 40px;
+    width: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow: inset -2px 20px 2px -10px #B99B55;
+    border-bottom: 50px;
+}
+.lekste{
+    background-color: dimgray;
+    height: 20px;
+    width: 380px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
